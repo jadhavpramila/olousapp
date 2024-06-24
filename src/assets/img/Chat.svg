@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Chat">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Chat" clip-path="url(#clip-Chat)">
+    <g id="Group_12450" data-name="Group 12450" transform="translate(-6126 -6096)">
+      <g id="Group_11196" data-name="Group 11196" transform="translate(5882 5026)" opacity="0">
+        <rect id="Frame" width="44" height="44" transform="translate(244 1070)" fill="none"/>
+      </g>
+      <g id="Group_11197" data-name="Group 11197" transform="translate(-10755 3443)">
+        <path id="Path_2361" data-name="Path 2361" d="M449.088,217h-5.958a10.125,10.125,0,0,0-1.788,20.092v4.934l7.15-4.767h.6a10.129,10.129,0,0,0,0-20.258Z" transform="translate(16457 2447)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_3829" data-name="Line 3829" y1="0.012" transform="translate(16897.15 2674.725)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_3830" data-name="Line 3830" y1="0.012" transform="translate(16903.107 2674.725)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <line id="Line_3831" data-name="Line 3831" y1="0.012" transform="translate(16909.066 2674.725)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>

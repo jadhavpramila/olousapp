@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="41" height="41" viewBox="0 0 41 41">
+  <defs>
+    <clipPath id="clip-Call">
+      <rect width="41" height="41"/>
+    </clipPath>
+  </defs>
+  <g id="Call" clip-path="url(#clip-Call)">
+    <g id="Group_11167" data-name="Group 11167" transform="translate(14770 -13591.206)">
+      <circle id="Ellipse_484" data-name="Ellipse 484" cx="19.5" cy="19.5" r="19.5" transform="translate(-14769 13592.206)" fill="#f2f2f2"/>
+      <g id="phone-pickup" transform="translate(-14759.323 13601.883)">
+        <path id="Path_2287" data-name="Path 2287" d="M380.119,375.281l-2.6-2.6a1.8,1.8,0,0,0-2.547,0l-2.157,2.157a11.211,11.211,0,0,1-6.006-6.006l2.157-2.157a1.8,1.8,0,0,0,0-2.547l-2.6-2.6a1.8,1.8,0,0,0-2.548,0l-1.236,1.236a5.453,5.453,0,0,0-1.478,4.909,16.35,16.35,0,0,0,12.87,12.871,5.456,5.456,0,0,0,4.909-1.479l1.236-1.236A1.8,1.8,0,0,0,380.119,375.281Z" transform="translate(-361 -361)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Path_2288" data-name="Path 2288" d="M378,361h4.271v4.271" transform="translate(-362.624 -361)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <line id="Line_118" data-name="Line 118" x1="5.125" y2="5.125" transform="translate(14.521 0)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="51" height="27" viewBox="0 0 51 27">
+  <defs>
+    <clipPath id="clip-Sector">
+      <rect width="51" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="Sector" clip-path="url(#clip-Sector)">
+    <g id="Group_4091" data-name="Group 4091" transform="translate(49.689 25.188) rotate(180)">
+      <g id="Group_4088" data-name="Group 4088" transform="translate(0.886 0.821)">
+        <path id="Path_2997" data-name="Path 2997" d="M.4,0A.366.366,0,0,0,0,.32V21.643a.364.364,0,0,0,.4.319H45.518a.327.327,0,1,0,0-.639H.8v-21A.365.365,0,0,0,.4,0Z" fill="#5e5f5f"/>
+      </g>
+      <g id="Group_4089" data-name="Group 4089" transform="translate(0)">
+        <path id="Path_2998" data-name="Path 2998" d="M2.4,1.2A1.2,1.2,0,0,0,1.2,0h0A1.2,1.2,0,0,0,0,1.2H0A1.2,1.2,0,0,0,1.2,2.4h0A1.2,1.2,0,0,0,2.4,1.2Z" fill="#5e5f5f"/>
+      </g>
+      <g id="Group_4090" data-name="Group 4090" transform="translate(45.222 21.262)">
+        <path id="Path_2999" data-name="Path 2999" d="M1.2,0A1.2,1.2,0,0,1,2.4,1.2h0A1.2,1.2,0,0,1,1.2,2.4h0A1.2,1.2,0,0,1,0,1.2H0A1.2,1.2,0,0,1,1.2,0Z" fill="#5e5f5f"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Notification">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Notification" clip-path="url(#clip-Notification)">
+    <g id="Group_11316" data-name="Group 11316" transform="translate(6 -4)">
+      <g id="Group_10654" data-name="Group 10654" transform="translate(-865 -32)">
+        <g id="Group_10075" data-name="Group 10075" transform="translate(615 -1034)" opacity="0">
+          <rect id="Frame" width="44" height="44" transform="translate(244 1070)" fill="none"/>
+        </g>
+        <path id="Path_11541" data-name="Path 11541" d="M480.709,450.5l-8.4-14.648a3.7,3.7,0,0,0-6.409,0l-8.4,14.648a3.676,3.676,0,0,0,3.2,5.5H477.5A3.676,3.676,0,0,0,480.709,450.5Z" transform="translate(411.5 -386.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

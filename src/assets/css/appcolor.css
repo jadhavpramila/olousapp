@@ -1,0 +1,131 @@
+:root {
+  --app-primary-color: #2f85cf;
+  --app-secondary-color: #efeff5;
+  --app-secondary-text-color: #000;
+  --app-secondary-text-color-light: gray;
+  --app-text-color-on-dark-bg : #ffffff;
+  --app-bg-white: #fff;
+  --lighter-primary: 0.9;
+  --app-input-border:#000000;
+  --app-input-focus-border:#2f85cf;
+  --app-input-focus-bg :#efeff5;
+  --app-bg-gradient :linear-gradient(to bottom, #d9eeff, #ffffff);
+  --app-gradient-first-color : #def0ff;
+  --app-custom-dropdown-box-border : 0px 0px 16px 6px rgba(0, 0, 0, 0.2);
+  --app-component-box-shadow : 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  --app-error-color : #ff0808;
+
+
+  --app-text-title : 1.125rem; /*18px */
+  --app-text-subtitle : 1rem; /*16px */
+  --app-text-normal :  0.875rem; /*14px */
+  --app-text-small : 0.75rem; /*12px */
+ 
+
+}
+
+/* text font classes */
+.text-title{
+  font-size: var(--app-text-title); 
+}
+ 
+.text-subtitle{
+  font-size: var(--app-text-subtitle);
+}
+
+.text-normal{
+  font-size: var(--app-text-normal);
+}
+
+.text-small{
+  font-size: var(--app-text-small);
+}
+
+
+/* New Color Classes */
+.app-bg-white {
+  background-color: var(--app-bg-white);
+}
+.app-bg-color-primary {
+  background-color: var(--app-primary-color);
+}
+.app-bg-color-secondary {
+  /* background-color: #faf6f2; */
+  background-color: var(--app-secondary-color);
+}
+.app-bg-color-gradient-first{
+  background-color: var(--app-gradient-first-color);
+}
+.app-text-color-primary {
+  color: var(--app-primary-color);
+}
+.app-text-color-secondary {
+  color: var(--app-secondary-text-color);
+}
+
+.app-text-on-bg-primary-color{
+  color : #ffffff
+}
+
+.app-bg-color-gradient{
+  background: var(--app-bg-gradient);
+}
+
+.app-text-color-for-dark-bg{
+  color: var(--app-text-color-on-dark-bg) ;
+}
+.app-border {
+  border: 1px solid var(--app-primary-color);
+}
+
+.app-border-black {
+  border: 1px solid #000000;
+}
+.app-border-static:hover {
+  border: 1px solid var(--app-primary-color);
+}
+.app-border-static {
+  border: 1px solid #efefef;
+}
+.app-comp-box-shadow {
+  box-shadow: var(--app-component-box-shadow);
+}
+
+
+
+.app-border-tlr {
+  border-top: 1px solid var(--app-primary-color);
+  border-left: 1px solid var(--app-primary-color);
+  border-right: 1px solid var(--app-primary-color);
+}
+.app-bg-hover:hover {
+  /* background-color: #faf6f2; */
+  background-color: var(--app-secondary-color);
+}
+
+.app-bg-hover-gradient:hover {
+  /* background-color: #faf6f2; */
+  background: linear-gradient(to bottom, #1987e5, rgba(0, 0, 0, 0.96) 172%);
+  color: #ffffff;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.16);
+  /* border: solid 1px var(--app-primary-color); */
+}
+.form-label-bg-w {
+  font-size: 14px;
+  color: var(--app-secondary-text-color);
+  line-height: 1.33;
+  margin-left: 0.625rem;
+  /* margin-bottom: 0.188rem; */
+}
+.form-bg-w {
+  /* background-color: #fdf7f0; */
+  /* background-color: var(--app-secondary-color); */
+  background-color : var(--app-bg-white);
+}
+.error-color {
+  color: var(--app-error-color);
+}
+
+.form-component-box-shadow-border{
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16)
+}

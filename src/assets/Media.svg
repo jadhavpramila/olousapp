@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-Media">
+      <rect width="23" height="23"/>
+    </clipPath>
+  </defs>
+  <g id="Media" clip-path="url(#clip-Media)">
+    <g id="camera" transform="translate(2 2)">
+      <path id="Path_10527" data-name="Path 10527" d="M90.476,163.476H74.748A1.747,1.747,0,0,1,73,161.728V150.369a1.747,1.747,0,0,1,1.748-1.748h2.621L79.117,146h6.99l1.748,2.621h2.621a1.747,1.747,0,0,1,1.748,1.748v11.359A1.747,1.747,0,0,1,90.476,163.476Z" transform="translate(-73 -146)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <circle id="Ellipse_606" data-name="Ellipse 606" cx="3.932" cy="3.932" r="3.932" transform="translate(5.68 6.117)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_9535" data-name="Line 9535" transform="translate(15.823 6)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

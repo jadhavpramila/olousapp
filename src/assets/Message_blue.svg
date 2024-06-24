@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="17" viewBox="0 0 22 17">
+  <defs>
+    <clipPath id="clip-Message">
+      <rect width="22" height="17"/>
+    </clipPath>
+  </defs>
+  <g id="Message" clip-path="url(#clip-Message)">
+    <g id="Group_18777" data-name="Group 18777" transform="translate(-651.75 -43.813)">
+      <g id="Group_16338" data-name="Group 16338" transform="translate(653.75 45.813)">
+        <path id="Vector" d="M0,0H17.7V12.539a.737.737,0,0,1-.737.738H.738A.737.737,0,0,1,0,12.539Z" transform="translate(0)" fill="none" stroke="#2f85cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M17.7,0,8.851,8.114,0,0" transform="translate(0)" fill="none" stroke="#2f85cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

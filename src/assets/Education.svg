@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="40" viewBox="0 0 39 40">
+  <defs>
+    <clipPath id="clip-Education">
+      <rect width="39" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Education" clip-path="url(#clip-Education)">
+    <g id="Group_11473" data-name="Group 11473" transform="translate(2.347 3.394)">
+      <rect id="Rectangle_10562" data-name="Rectangle 10562" width="35" height="35" rx="17.5" transform="translate(-0.347 -0.394)" fill="#fff"/>
+      <g id="Group_8410" data-name="Group 8410" transform="translate(6.369 9.638)">
+        <g id="graduation-cap" transform="translate(0 0)">
+          <path id="Path_10597" data-name="Path 10597" d="M221,298.5v8.252s1.991,2.2,6.969,2.2,6.969-2.2,6.969-2.2V298.5" transform="translate(-217.018 -291.033)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_10598" data-name="Path 10598" d="M217,296.476,227.951,291l10.951,5.476" transform="translate(-217 -291)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <path id="Path_10599" data-name="Path 10599" d="M238.9,296.5l-10.951,5.476L217,296.5" transform="translate(-217 -291.024)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <line id="Line_4025" data-name="Line 4025" y2="7.467" transform="translate(21.903 6.222)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

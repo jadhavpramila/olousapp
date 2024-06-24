@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Header_Search_icon">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Header_Search_icon" data-name="Header Search icon" clip-path="url(#clip-Header_Search_icon)">
+    <g id="Group_12195" data-name="Group 12195" transform="translate(-201 -1560)">
+      <rect id="Frame" width="44" height="44" transform="translate(201 1560)" fill="#fff500" opacity="0"/>
+      <g id="Group_12189" data-name="Group 12189" transform="translate(35 -21.5)">
+        <circle id="Ellipse_1157" data-name="Ellipse 1157" cx="12" cy="12" r="12" transform="translate(176 1590.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_2" data-name="Line 2" x1="4.5" y1="4.5" transform="translate(195.5 1612.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

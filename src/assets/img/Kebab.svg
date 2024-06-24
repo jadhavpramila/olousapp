@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="27" viewBox="0 0 28 27">
+  <defs>
+    <clipPath id="clip-Kebab">
+      <rect width="28" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="Kebab" clip-path="url(#clip-Kebab)">
+    <g id="Group_11137" data-name="Group 11137" transform="translate(14123 -9914)">
+      <g id="Group_10619" data-name="Group 10619" transform="translate(-14111 9916)">
+        <ellipse id="Ellipse_25" data-name="Ellipse 25" cx="2.172" cy="2.172" rx="2.172" ry="2.172" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <ellipse id="Ellipse_26" data-name="Ellipse 26" cx="2.172" cy="2.172" rx="2.172" ry="2.172" transform="translate(0 9.773)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="2.172" cy="2.172" rx="2.172" ry="2.172" transform="translate(0 19.547)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

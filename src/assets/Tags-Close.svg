@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23">
+  <defs>
+    <clipPath id="clip-Tags_Close">
+      <rect width="23" height="23"/>
+    </clipPath>
+  </defs>
+  <g id="Tags_Close" data-name="Tags Close" clip-path="url(#clip-Tags_Close)">
+    <g id="Group_12130" data-name="Group 12130" transform="translate(0.423 1)">
+      <g id="Group_8837" data-name="Group 8837" transform="translate(0 0)">
+        <circle id="Ellipse_567" data-name="Ellipse 567" cx="10.788" cy="10.788" r="10.788" fill="#333"/>
+      </g>
+      <g id="Group_9960" data-name="Group 9960" transform="translate(7.84 7.641)">
+        <line id="Line_55" data-name="Line 55" y2="8.903" transform="translate(6.296 0) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_56" data-name="Line 56" x2="8.903" transform="translate(0 0) rotate(45)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Comments">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Comments" clip-path="url(#clip-Comments)">
+    <g id="Group_12412" data-name="Group 12412" transform="translate(2498 -8878)">
+      <rect id="Rectangle_11859" data-name="Rectangle 11859" width="44" height="44" transform="translate(-2498 8878)" fill="none"/>
+      <g id="chat-conversation-alt" transform="translate(-2486 8890)">
+        <path id="Path_36" data-name="Path 36" d="M404.3,218.833H388.58a1.747,1.747,0,0,0-1.747,1.747v11.354a1.747,1.747,0,0,0,1.747,1.747h4.367l3.493,4.367,3.493-4.367H404.3a1.747,1.747,0,0,0,1.747-1.747V220.58A1.747,1.747,0,0,0,404.3,218.833Z" transform="translate(-386.833 -218.833)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_7" data-name="Line 7" x2="8.734" transform="translate(5.241 5.241)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_8" data-name="Line 8" x2="5.24" transform="translate(5.241 9.608)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

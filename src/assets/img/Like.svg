@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="27" viewBox="0 0 26 27">
+  <defs>
+    <clipPath id="clip-Like">
+      <rect width="26" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="Like" clip-path="url(#clip-Like)">
+    <path id="Path_11542" data-name="Path 11542" d="M116.432,458.533,110.81,455.4a.05.05,0,0,0-.051,0l-5.62,3.139a1.514,1.514,0,0,1-2.167-1.669l1.071-6.645a.061.061,0,0,0-.017-.051l-4.79-4.952a1.433,1.433,0,0,1,.735-2.4l6.616-1.024a.054.054,0,0,0,.042-.031l2.807-6.045a1.456,1.456,0,0,1,2.678,0l2.813,6.043a.055.055,0,0,0,.042.031l6.617,1.018a1.433,1.433,0,0,1,.736,2.4l-4.785,4.956a.06.06,0,0,0-.016.051l1.076,6.643A1.514,1.514,0,0,1,116.432,458.533Z" transform="translate(-97.779 -433.278)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

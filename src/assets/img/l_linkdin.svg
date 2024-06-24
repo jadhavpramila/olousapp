@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="33" viewBox="0 0 34 33">
+  <defs>
+    <clipPath id="clip-LinkdIne">
+      <rect width="34" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="LinkdIne" clip-path="url(#clip-LinkdIne)">
+    <path id="_5279114_linkedin_network_social_network_linkedin_logo_icon" data-name="5279114_linkedin_network_social network_linkedin logo_icon" d="M15.639,0A15.639,15.639,0,1,1,0,15.639,15.646,15.646,0,0,1,15.639,0ZM10.749,24.427V12.215H6.689V24.427Zm14.638,0v-7c0-3.751-2-5.5-4.674-5.5a4.032,4.032,0,0,0-3.659,2.016V12.215H13c.054,1.146,0,12.213,0,12.213h4.059v-6.82a2.775,2.775,0,0,1,.134-.991,2.222,2.222,0,0,1,2.083-1.484c1.468,0,2.056,1.12,2.056,2.761v6.534ZM8.747,6.326a2.116,2.116,0,1,0-.054,4.221h.026a2.117,2.117,0,1,0,.028-4.221Z" transform="translate(1 1)" fill="#429be6" fill-rule="evenodd"/>
+  </g>
+</svg>

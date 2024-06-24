@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+  <defs>
+    <clipPath id="clip-Create_Board">
+      <rect width="27" height="27"/>
+    </clipPath>
+  </defs>
+  <g id="Create_Board" data-name="Create Board" clip-path="url(#clip-Create_Board)">
+    <g id="Group_10100" data-name="Group 10100" transform="translate(1 1)">
+      <circle id="Ellipse_1091" data-name="Ellipse 1091" cx="12.5" cy="12.5" r="12.5" fill="#333"/>
+      <text id="_" data-name="+" transform="translate(13 18)" fill="#f2f2f2" font-size="18" font-family="SFUIText-Regular, SF UI Text"><tspan x="-5.836" y="0">+</tspan></text>
+    </g>
+  </g>
+</svg>

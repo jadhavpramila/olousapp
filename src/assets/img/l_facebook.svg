@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="33" viewBox="0 0 34 33">
+  <defs>
+    <clipPath id="clip-Facebook">
+      <rect width="34" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook" clip-path="url(#clip-Facebook)">
+    <path id="_5305154_fb_facebook_facebook_logo_icon" data-name="5305154_fb_facebook_facebook logo_icon" d="M31.277,17.194A15.639,15.639,0,1,0,13.2,32.642V21.714H9.224V17.194H13.2V13.748c0-3.919,2.335-6.084,5.907-6.084a24.048,24.048,0,0,1,3.5.305v3.849H20.631a2.26,2.26,0,0,0-2.549,2.442v2.934h4.337l-.693,4.521H18.082V32.642A15.642,15.642,0,0,0,31.277,17.194Z" transform="translate(1 -0.555)" fill="#429be6"/>
+  </g>
+</svg>

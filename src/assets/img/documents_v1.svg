@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Documents">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Documents" clip-path="url(#clip-Documents)">
+    <g id="page-content" transform="translate(14 14)" opacity="0.997">
+      <path id="Path_2217" data-name="Path 2217" d="M479.647,818.855h-5.88v-6.036" transform="translate(-465.259 -812.223)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_839" data-name="Line 839" x2="8.421" transform="translate(3.456 10.178)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_840" data-name="Line 840" x2="8.421" transform="translate(3.456 13.635)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_2218" data-name="Path 2218" d="M477.4,829.72H465.471a1.627,1.627,0,0,1-1.7-1.536V814.355a1.627,1.627,0,0,1,1.7-1.536h6.816l6.817,6.146v9.219A1.626,1.626,0,0,1,477.4,829.72Z" transform="translate(-463.767 -812.819)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

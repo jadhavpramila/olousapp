@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <clipPath id="clip-Keyskills">
+      <rect width="38" height="38"/>
+    </clipPath>
+  </defs>
+  <g id="Keyskills" clip-path="url(#clip-Keyskills)">
+    <g id="Group_8423" data-name="Group 8423" transform="translate(-12386 4409)">
+      <g id="Group_8422" data-name="Group 8422">
+        <rect id="Rectangle_10554" data-name="Rectangle 10554" width="36" height="36" rx="18" transform="translate(12387 -4408)" fill="#fff"/>
+        <g id="keypad" transform="translate(12033 -4690)">
+          <rect id="Rectangle_8706" data-name="Rectangle 8706" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 291)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8707" data-name="Rectangle 8707" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 291)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8708" data-name="Rectangle 8708" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 291)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8709" data-name="Rectangle 8709" width="3.273" height="3.273" rx="1.089" transform="translate(377.727 291)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8710" data-name="Rectangle 8710" width="3.273" height="3.273" rx="1.089" transform="translate(363 291)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8711" data-name="Rectangle 8711" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 298.364)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8712" data-name="Rectangle 8712" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 298.364)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8713" data-name="Rectangle 8713" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 298.364)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8714" data-name="Rectangle 8714" width="3.273" height="3.273" rx="1.089" transform="translate(377.727 298.364)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8715" data-name="Rectangle 8715" width="3.273" height="3.273" rx="1.089" transform="translate(363 298.364)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8716" data-name="Rectangle 8716" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 305.727)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8717" data-name="Rectangle 8717" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 305.727)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8718" data-name="Rectangle 8718" width="3.273" height="3.273" rx="1.089" transform="translate(370.364 305.727)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8719" data-name="Rectangle 8719" width="3.273" height="3.273" rx="1.089" transform="translate(377.727 305.727)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <rect id="Rectangle_8720" data-name="Rectangle 8720" width="3.273" height="3.273" rx="1.089" transform="translate(363 305.727)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

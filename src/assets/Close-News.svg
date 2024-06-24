@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-Close_icon">
+      <rect width="44" height="44"/>
+    </clipPath>
+  </defs>
+  <g id="Close_icon" data-name="Close icon" clip-path="url(#clip-Close_icon)">
+    <g id="Group_13356" data-name="Group 13356" transform="translate(-1726 3582)">
+      <g id="Group_10754" data-name="Group 10754" transform="translate(2623.747 -5622.488) rotate(45)">
+        <g id="Group_2656" data-name="Group 2656" transform="translate(829 2068)">
+          <g id="add" transform="translate(0 0)">
+            <line id="Line_37" data-name="Line 37" y2="19.292" transform="translate(9.646 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_38" data-name="Line 38" x2="19.292" transform="translate(0 9.646)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_39" data-name="Line 39" y2="19.292" transform="translate(9.646 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            <line id="Line_40" data-name="Line 40" x2="19.292" transform="translate(0 9.646)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+      <rect id="Rectangle_11611" data-name="Rectangle 11611" width="44" height="44" transform="translate(1726 -3582)" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Urgent">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Urgent" clip-path="url(#clip-Urgent)">
+    <g id="whistle" transform="translate(1.119 1.227)">
+      <line id="Line_3899" data-name="Line 3899" y1="3" transform="translate(11 -0.228)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <line id="Line_3900" data-name="Line 3900" x1="1" y1="1" transform="translate(6 1.772)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <line id="Line_3901" data-name="Line 3901" y1="1" x2="1" transform="translate(15 1.772)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <path id="Path_7042" data-name="Path 7042" d="M361,441h12.118a5.655,5.655,0,1,1-5.655,5.655,5.579,5.579,0,0,1,.04-.65l-6.5-1.773Z" transform="translate(-361 -434.537)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <circle id="Ellipse_516" data-name="Ellipse 516" cx="1.5" cy="1.5" r="1.5" transform="translate(10 10.772)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <clipPath id="clip-Bookmark">
+      <rect width="37" height="37"/>
+    </clipPath>
+  </defs>
+  <g id="Bookmark" clip-path="url(#clip-Bookmark)">
+    <g id="Group_11886" data-name="Group 11886" transform="translate(-214 -234)">
+      <circle id="Ellipse_1129" data-name="Ellipse 1129" cx="17.5" cy="17.5" r="17.5" transform="translate(215 235)" fill="#fff"/>
+      <g id="bookmark-2" data-name="bookmark" transform="translate(-45.583 96.083)">
+        <path id="Path_43" data-name="Path 43" d="M273.031,146.917h10.694a2.45,2.45,0,0,1,2.448,2.448v16.042a.665.665,0,0,1-.962.595l-6.833-3.417L271.545,166a.665.665,0,0,1-.962-.595V149.365A2.45,2.45,0,0,1,273.031,146.917Zm11.812,17.413V149.365a1.119,1.119,0,0,0-1.118-1.118H273.031a1.119,1.119,0,0,0-1.118,1.118V164.33l6.168-3.084a.665.665,0,0,1,.595,0Z" transform="translate(0 0)" fill="#333"/>
+      </g>
+    </g>
+  </g>
+</svg>

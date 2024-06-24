@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="21" viewBox="0 0 22 21">
+  <defs>
+    <clipPath id="clip-Timeline">
+      <rect width="22" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="Timeline" clip-path="url(#clip-Timeline)">
+    <path id="Vector" d="M15.48,7.74A7.74,7.74,0,1,1,7.74,0a7.74,7.74,0,0,1,7.74,7.74Z" transform="translate(3.26 2.76)" fill="none" stroke="#2f85cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7"/>
+  </g>
+</svg>

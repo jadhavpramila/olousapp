@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="21" viewBox="0 0 17 21">
+  <defs>
+    <clipPath id="clip-Bookmark_Fill">
+      <rect width="17" height="21"/>
+    </clipPath>
+  </defs>
+  <g id="Bookmark_Fill" data-name="Bookmark Fill" clip-path="url(#clip-Bookmark_Fill)">
+    <g id="bookmark" transform="translate(0.622 0.722)">
+      <path id="Path_43" data-name="Path 43" d="M271.333,149.59v17.3l7.689-3.845,7.689,3.845v-17.3a1.923,1.923,0,0,0-1.923-1.923H273.256A1.923,1.923,0,0,0,271.333,149.59Z" transform="translate(-271.333 -147.667)" fill="#aaa" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

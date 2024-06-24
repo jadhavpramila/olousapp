@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+  <defs>
+    <clipPath id="clip-Interest">
+      <rect width="38" height="38"/>
+    </clipPath>
+  </defs>
+  <g id="Interest" clip-path="url(#clip-Interest)">
+    <g id="Group_9980" data-name="Group 9980" transform="translate(-12461 4788)">
+      <rect id="Rectangle_10555" data-name="Rectangle 10555" width="36" height="36" rx="18" transform="translate(12462 -4787)" fill="#fff"/>
+      <g id="Group_8408" data-name="Group 8408" transform="translate(9572 -5942)">
+        <path id="Path_10607" data-name="Path 10607" d="M106.091,224.727h-4.909V237h4.909" transform="translate(2797.818 945)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="Path_10608" data-name="Path 10608" d="M114.273,237h4.909V224.727h-4.909" transform="translate(2797.818 945)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <rect id="Rectangle_8705" data-name="Rectangle 8705" width="8.182" height="18" transform="translate(2903.909 1164)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4032" data-name="Line 4032" y1="4.091" transform="translate(2900.636 1165.636)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4033" data-name="Line 4033" x2="1.636" transform="translate(2907.182 1167.273)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4034" data-name="Line 4034" x2="1.636" transform="translate(2907.182 1170.545)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4035" data-name="Line 4035" x2="1.636" transform="translate(2907.182 1173.818)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4036" data-name="Line 4036" x2="1.636" transform="translate(2915.364 1176.273)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4037" data-name="Line 4037" x2="1.636" transform="translate(2915.364 1173)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4038" data-name="Line 4038" x2="1.636" transform="translate(2899 1173)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <line id="Line_4039" data-name="Line 4039" x2="1.636" transform="translate(2899 1176.273)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

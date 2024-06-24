@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="26" viewBox="0 0 22 26">
+  <defs>
+    <clipPath id="clip-PDF_icon">
+      <rect width="22" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="PDF_icon" data-name="PDF icon" clip-path="url(#clip-PDF_icon)">
+    <g id="file-pdf" transform="translate(1 0.968)">
+      <path id="Path_11426" data-name="Path 11426" d="M219,296.558v-5.4A2.159,2.159,0,0,1,221.159,289h10.8l6.478,6.478v1.08" transform="translate(-219 -289)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_11427" data-name="Path 11427" d="M227,306.478V300h2.159a1.08,1.08,0,0,1,1.08,1.08V305.4a1.08,1.08,0,0,1-1.08,1.08Z" transform="translate(-218.362 -288.123)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_11428" data-name="Path 11428" d="M221,306.478V300h2.159a1.08,1.08,0,0,1,1.08,1.08v2.159a1.08,1.08,0,0,1-1.08,1.08H221" transform="translate(-218.841 -288.123)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_11429" data-name="Path 11429" d="M233,306.478V300h3.239" transform="translate(-217.884 -288.123)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_9594" data-name="Line 9594" x2="2.138" transform="translate(15.5 15.032)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Path_11430" data-name="Path 11430" d="M238.124,310a2.158,2.158,0,0,1-1.87,1.08H221.138a2.158,2.158,0,0,1-1.87-1.08" transform="translate(-218.979 -287.326)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

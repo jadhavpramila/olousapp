@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+  <defs>
+    <clipPath id="clip-Linkdine">
+      <rect width="33" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="Linkdine" clip-path="url(#clip-Linkdine)">
+    <g id="Group_10836" data-name="Group 10836" transform="translate(11810 -11635)">
+      <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(-11809 11636)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="0 0">
+        <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+        <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+      </g>
+      <g id="Linkedin" transform="translate(-11800 11645)">
+        <path id="Path_11590" data-name="Path 11590" d="M123.75,758.047h2.79v8.971h-2.79Zm1.4-4.457a1.617,1.617,0,1,1-1.617,1.617,1.617,1.617,0,0,1,1.617-1.617" transform="translate(-123.53 -753.59)" fill="#fff"/>
+        <path id="Path_11591" data-name="Path 11591" d="M140.37,768.8h2.671v1.227h.051a2.928,2.928,0,0,1,2.637-1.447c2.826,0,3.344,1.857,3.344,4.271v4.921h-2.787v-4.361c0-1.04-.017-2.38-1.447-2.38s-1.673,1.13-1.673,2.3v4.437h-2.784Z" transform="translate(-135.61 -764.338)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

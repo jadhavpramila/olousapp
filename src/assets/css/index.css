@@ -1,0 +1,435 @@
+/* @import url("https://fonts.cdnfonts.com/css/inter"); */
+/* [![](https://data.jsdelivr.com/v1/package/npm/manrope/badge)](https://www.jsdelivr.com/package/npm/manrope) */
+/* @import url('https://fonts.cdnfonts.com/css/proxima-nova-2'); */
+/* @import url("https://www.jsdelivr.com/package/npm/manrope");
+@import url("https://data.jsdelivr.com/v1/package/npm/manrope/badge"); */
+/* ./src/index.css */
+@import url("./appcolor.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*html {
+   font-size: 103.375%; */
+/* font-size: 100%; */
+/* background-color: var(--app-bg-white);
+}*/
+
+@font-face {
+  font-family: "Manrope Regular";
+  src: local("Manrope Regular"),
+    url(../fonts/Manrope-Regular.ttf) format("truetype");
+}
+@font-face {
+  /* 600 */
+  font-family: "Manrope SemiBold";
+  src: local("Manrope SemiBold"),
+    url(../fonts/Manrope-SemiBold.ttf) format("truetype");
+}
+
+@font-face {
+  /* 300 */
+  font-family: "Manrope Light";
+  src: local("Manrope Light"),
+    url(../fonts/Manrope-Light.ttf) format("truetype");
+}
+
+@font-face {
+  /* 700 */
+  font-family: "Manrope Bold";
+  src: local("Manrope Bold"), url(../fonts/Manrope-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  /* 500 */
+  font-family: "Manrope Medium";
+  src: local("Manrope Medium"),
+    url(../fonts/Manrope-Medium.ttf) format("truetype");
+}
+
+/* :root {
+  font-size: 100%;
+} */
+body {
+  color: var(--app-secondary-text-color);
+  /* font-family: "Inter", sans-serif; */
+  /* font-family: "manrope", Helvetica, sans-serif !important; */
+  font-family: "Manrope Regular" !important;
+  line-height: 1.25rem !important;
+}
+.tab {
+  @apply border  rounded-lg cursor-pointer hover:bg-black hover:text-white text-center font-bold;
+}
+
+.active {
+  @apply bg-black text-white;
+}
+
+.subtabActive {
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.btn {
+  @apply bg-[#f2f2f2] h-[2rem] text-[#000000] px-3 text-base text-base rounded-md;
+}
+
+/* .left-right-page-padding {
+  @apply xl:px-12 lg:px-12 md:px-10 sm:px-9 px-4;
+} */
+
+.left-right-page-padding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.left-right-page-padding-layout {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.nav-items ul li .active {
+  @apply bg-[#000] flex items-center justify-center mx-1;
+  background-color: var(--app-primary-color);
+  border-radius: 10px;
+}
+@media only screen and (max-width: 1030px) {
+  .left-right-page-padding {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .left-right-page-padding-layout {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+.form-group {
+  margin-bottom: 0.4rem;
+}
+.form-control {
+  font-size: 14px;
+  line-height: 25px;
+  text-align: left;
+  letter-spacing: 0.125px;
+  box-sizing: border-box;
+  box-shadow: none;
+  width: 100%;
+
+  font-weight: 600;
+  /* comment bocz change ui of new profile forms
+  border: 0;*/
+  border-width: 0.5px;
+  border-style: solid;
+  border-color: var(--app-input-border);
+  border-radius: 8px;
+  padding: 5px 12px 5px;
+  transition: all 0.2s cubic-bezier(0.2, 0.91, 0.85, 0.96) 0s;
+  margin-bottom: 10px;
+  margin-top: 3px;
+  color: #1c1c1c;
+  background-color: var(--app-bg-white);
+  height: 44px; /*  on change change in  .btn-inputeControlHeight*/
+  transition: background-color 0.2s, color 0.2s, border-color 0.2s,
+  box-shadow 0.2s;
+  font-family: "Manrope Regular" !important;
+}
+
+textarea.form-control {
+  height: auto;
+}
+
+/* .form-control:hover {
+  border: 0 !important ;
+  border-width: 1px !important ;
+  border-style: solid !important ;
+  border: 0.5px solid var(--app-input-border) !important ;
+
+} */
+
+
+input.form-control:focus,
+select.form-control:focus,
+textarea.form-control:focus,
+.p-inputwrapper-focus
+ {
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16) !important;
+  background-color: var(--app-input-focus-bg) !important;
+  border: 0.5px solid var(--app-input-focus-border) !important;
+}
+
+input.form-control:focus-visible,
+select.form-control:focus-visible,
+textarea.form-control:focus-visible{
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+
+.form-control.p-calendar .p-inputtext:enabled:focus,
+.form-control.p-password .p-inputtext:enabled:focus,
+.form-control.p-autocomplete .p-inputtext:enabled:focus{
+  background-color: var(--app-input-focus-bg) !important;
+}
+
+
+.form-control .p-inputtext,
+.form-control.p-calendar .p-inputtext,
+.form-control.p-password .p-inputtext,
+.form-control.p-autocomplete .p-inputtext,
+.form-control.p-dropdown .p-inputtext,
+.form-control.p-multiselect .p-multiselect-token-label{
+  font-weight: 600 !important;
+  font-family: "Manrope Regular" !important;
+  color: #1c1c1c
+}
+
+.form-control.p-password.p-inputwrapper-filled .p-inputtext{
+  font-weight: 600 !important;
+}
+
+.p-inputwrapper-focus .p-button{
+  background-color: var(--app-input-focus-bg) !important;
+  border: 0.5px solid var(--app-input-focus-bg) !important;
+}
+
+.form-control.p-password .p-inputtext{
+  padding: 0.25rem 0rem !important;
+  font-family: "Manrope Regular" !important;
+}
+
+
+
+.page-title {
+  font-size: 22px;
+  font-weight: 600;
+  padding: 0.25rem;
+  letter-spacing: normal;
+  color: var(--app-primary-color);
+}
+.form-label {
+  font-size: 15px;
+  color: #c1c1c1;
+  line-height: 1.33;
+  margin-left: 0.625rem;
+  /* margin-bottom: 0.188rem; */
+}
+.form-title {
+  font-size: 1.5rem;
+  text-align: center;
+  font-weight: 400;
+}
+
+.form-checkbox {
+  transform: scale(1.3);
+}
+
+.invalid-feedback {
+  padding-left: 10px;
+  margin-top: -7px !important;
+  color: var(--app-error-color);
+  font-size: 12px;
+}
+
+.btn {
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 16px 7px;
+  font-weight: 600;
+  line-height: 0;
+  height: 40px;
+  width: 100%;
+  color: var(--app-secondary-text-color);
+  background-color: var(--app-bg-white);
+  border: 0.5px solid var(--app-input-border);
+  font-family: "Manrope Regular" !important;
+}
+.btn:disabled {
+
+  color: #99a0a5;
+
+}
+
+.btn:enabled:hover {
+  background-color: var(--app-primary-color);
+  color: var(--app-bg-white);
+  border: 0.5px solid var(--app-primary-color);
+}
+.btn-inputeControlHeight {
+  height: 44px;
+}
+.btn-controls {
+  width: 9.5rem;
+}
+.div-border {
+  @apply border-solid bg-[#121415] border border-gray-600;
+}
+
+.login-btn {
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 16px 7px;
+  /* font-weight: 600; */
+  line-height: 0;
+  height: 44px;
+  color: var(--app-bg-white);
+  background-color: transparent;
+  border-width: 1px !important;
+  border-color: #f2f2f2;
+  font-weight: 500;
+}
+.top-margin-5px {
+  margin-top: 5px;
+}
+
+.form-container {
+  margin-top: 90px;
+  /* min-height: calc(100vh - 254px) !important; */
+  /*  calc(100vh - 230px) viewport height -(header + footer height + footer top margin) */
+  margin-bottom: 20px;
+  @apply mx-auto;
+}
+
+.footer {
+  margin-top: auto !important;
+}
+
+.page-without-header {
+  margin-top: 50px !important;
+  min-height: calc(100vh - 196px) !important;
+  @apply mx-auto;
+}
+
+/* ######-----------For Mobile Devices----------###### */
+
+@media only screen and (max-width: 600px) {
+  .form-control {
+    font-size: 14px;
+    line-height: 25px;
+    text-align: left;
+    letter-spacing: 0.125px;
+    box-sizing: border-box;
+    box-shadow: none;
+    width: 100%;
+    border: 0;
+    border-width: 1px;
+    border-style: solid;
+    border-color: var(--app-input-border);
+    border-radius: 10px;
+    padding: 5px 12px 5px;
+    transition: all 0.2s cubic-bezier(0.2, 0.91, 0.85, 0.96) 0s;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    color: #1c1c1c;
+    background-color: var(--app-bg-white);
+    height: 44px; /*  on change change in  .btn-inputeControlHeight*/
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s,
+      box-shadow 0.2s;
+  }
+
+  textarea.form-control {
+    height: auto;
+  }
+
+  .login-btn {
+    font-size: 14px;
+    border-radius: 10px;
+    padding: 12px 7px;
+    /* font-weight: 600; */
+    line-height: 0;
+    height: 44px;
+    color: var(--app-bg-white);
+    background-color: transparent;
+    border-width: 1px !important;
+    border-color: #f2f2f2;
+    font-weight: 500;
+  }
+  .p-component {
+    font-size: 14px !important;
+    font-weight: normal;
+    font-family: "Manrope Regular" !important;
+  }
+  .form-container {
+    margin-top: 90px;
+    /* min-height: calc(100vh - 254px) !important; */
+    /*  calc(100vh - 230px) viewport height -(header + footer height + footer top margin) */
+    @apply mx-auto;
+  }
+  .page-without-header {
+    margin-top: 50px !important;
+    min-height: calc(100vh - 410px) !important;
+    @apply mx-auto;
+  }
+  .btn-controls {
+    width: 6.8rem;
+  }
+}
+
+.app-width {
+  max-width: 1024px;
+  margin: auto;
+}
+.btn-focus button:focus-visible {
+  outline: none;
+}
+/* .single-img-div{
+    width: 100%;
+     height: 350px;
+  }*/
+
+.signin-forms {
+  max-width: 690px;
+  width: 100%;
+}
+
+.signin-forms-inner {
+  /* max-width: 468px; */
+  width: 100%;
+  margin: auto;
+}
+
+.body-disable-scrollbar {
+  position: fixed !important;
+  overflow-y: scroll !important;
+  width: 100% !important;
+  /* background-color: red !important; */
+}
+
+/* progressive spinner  */
+@keyframes p-progress-spinner-color {
+  100%,
+  0% {
+    stroke: #333333 !important;
+  }
+  40% {
+    stroke: #d8d8d8 !important;
+  }
+  66% {
+    stroke: #333333 !important;
+  }
+  80%,
+  90% {
+    stroke: #d8d8d8 !important;
+  }
+}
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: #e6e6e6;
+  border-radius: 4px !important;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 4px !important;
+  -webkit-box-shadow: inset 0 0 0px rgba(0, 0, 0, 0.3);
+  background-color: #e6e6e6;
+}
+
+::-webkit-scrollbar-thumb {
+  /* background: red; */
+  border-radius: 4px !important;
+  background-color: #adadad;
+}
+
+img:focus,
+.focus-off,
+button:focus {
+  -webkit-tap-highlight-color: none;
+}

@@ -1,0 +1,1347 @@
+/* ----------------------------------------------------
+#Landing Page CSS
+-------------------------------------------------------*/
+@import url("./appcolor.css");
+/*--------------------------------------------------------------
+# Counts
+--------------------------------------------------------------*/
+
+@import url("./appcolor.css");
+
+/* Slideshow container */
+.slideshow-container {
+  position: relative;
+}
+
+/* Slides */
+.mySlides {
+  display: none;
+  text-align: center;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -30px;
+  padding: 20px 20px 20px 20px;
+
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  position: absolute;
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+
+/* The dot/bullet/indicator container */
+
+.button-container:hover button {
+  background-color: app-secondary-text-color;
+}
+
+.button-container:hover a {
+  color: white;
+
+  border-color: currentColor;
+  z-index: 1;
+}
+.content-max-width {
+  max-width: 1320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hub {
+  color: #222;
+  text-align: center;
+
+  /* font-family: "Manrope", sans-serif; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal; /* 133.333% */
+  text-transform: capitalize;
+}
+.hub {
+  /* Add other styles for the .hub class as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* .infinite-scrolling-carousel {
+  animation: scroll 10s linear infinite;
+  animation-timing-function: steps(1, end);
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+} */
+/*--------------------------------------------------------------
+  # Footer
+  --------------------------------------------------------------*/
+
+.footer-download-txt {
+  color: var(--app-bg-white);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal; /* 120% */
+  text-transform: capitalize;
+  /* margin-left: 18px;
+  margin-bottom: 8px; */
+}
+
+/* .app text {
+  color: #222;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;  133.333% 
+  text-transform: capitalize;
+  padding-left: 24px;
+} */
+
+.bbapple {
+  display: inline-flex;
+  padding: 8px 24px;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+  border-radius: 8px;
+  color: var(--app-bg-white);
+
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  text-transform: capitalize;
+  background-color: var(--app-primary-color);
+  fill: var(--app-bg-white);
+}
+.bbapple {
+  /* Add your existing button styles here */
+  background-color: var(--app-primary-color);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.bbapple:hover,
+.bbapple:active {
+  background-color: app-secondary-text-color;
+  color: white; /* Change text color to white on hover/click */
+}
+
+.bbapple img {
+  margin-right: 8px; /* Add some spacing between the icon and text */
+}
+.prev:hover,
+.next:hover {
+  background-color: transparent !important;
+  color: var(--app-secondary-text-color) !important;
+}
+
+.box {
+  align-items: center;
+  color: app-secondary-text-color;
+}
+
+.feature-title {
+  color: #222;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  font-family: "Manrope Bold" !important;
+  line-height: normal; /* 128.571% */
+  text-transform: capitalize;
+  align-items: center;
+  text-align: center;
+}
+
+.scroll-text {
+  color: #222;
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  text-transform: capitalize;
+  padding-top: 26px;
+  padding-bottom: 24px;
+}
+
+.flex grow {
+  padding-top: 26px;
+  padding-bottom: 24px;
+  border-radius: 7.5px;
+  background: #ededed;
+}
+
+.strip {
+  color: var(--app-bg-white);
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  font-family: "Manrope Bold" !important;
+  line-height: normal; /* 125% */
+}
+.purecounter {
+  color: var(--app-primary-color);
+  text-align: center;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  font-family: "Manrope SemiBold" !important;
+  line-height: normal;
+}
+.testimonial-text {
+  color: #222;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Manrope Light" !important;
+  line-height: normal; /* 171.429% */
+}
+
+.testimonial-story {
+  color: #222;
+  text-align: center;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 800;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  letter-spacing: 1.4px;
+  text-transform: capitalize;
+}
+.head {
+  color: #222;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: 20px; /* 142.857% */
+}
+.counter-icons {
+  width: 50px;
+  height: 50px;
+  flex-shrink: 0;
+}
+
+.business {
+  border-radius: 8px;
+  border: 1px solid #222;
+  display: flex;
+  padding: 8px 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+.bus1 {
+  color: #222;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.mySlides {
+  color: #222;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Manrope Light" !important;
+  line-height: normal; /* 171.429% */
+  letter-spacing: 0.28px;
+  display: none;
+}
+
+.Slides {
+  /* width: 575px; 
+  height: 275px;  */
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.mySlides {
+  width: 100%; /* Make sure individual slides take the full width of the container */
+  height: 100%; /* Make sure individual slides take the full height of the container */
+  display: none;
+}
+
+/* Rest of your CSS styles for slides and buttons */
+
+/*.prev,
+.next {
+   Your styles for previous and next buttons 
+}*/
+
+.footer-head-subtitle {
+  color: var(--app-bg-white);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Manrope Light" !important;
+  line-height: 20px; /* 142.857% */
+  padding-bottom: 8px;
+}
+
+.footer-head-title {
+  color: var(--app-primary-color);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  text-transform: capitalize;
+}
+/*--------------------------------------------------
+  #testimonial
+  --------------------------------------------------*/
+/* Default styles for larger screens */
+
+/* Media query for screens smaller than or equal to the MD breakpoint (typical tablet and mobile screens) */
+
+/*--------------------------------------------------------------
+  # slider section 3 home page
+  --------------------------------------------------------------*/
+
+.pbox {
+  color: #222;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: 20px; /* 142.857% */
+  text-transform: capitalize;
+}
+
+.newsletter-input {
+  height: 44px;
+  padding-left: 10px;
+  border-radius: 8px;
+  border: 1px solid var(--app-secondary-text-color);
+}
+
+.newsletter-box {
+  color: #222;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  text-transform: capitalize;
+}
+
+.box-border {
+  border-radius: 22px;
+  background: #fff7f1;
+  width: 225px;
+  height: 230px;
+  flex-shrink: 0;
+}
+
+.card-text {
+  color: #222;
+  text-align: center;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 800;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+  text-transform: capitalize;
+}
+.cnumber {
+  color: var(--app-primary-color);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal;
+}
+
+.row-gap {
+  row-gap: 0px;
+}
+
+.landingpage {
+  max-width: 1280px;
+  margin: auto;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.slink {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: var(--app-primary-color);
+}
+
+.slink:hover {
+  background-color: var(--app-secondary-text-color);
+}
+
+.copyrght {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Manrope Light" !important;
+  line-height: normal;
+  letter-spacing: 0.24px;
+  text-transform: capitalize;
+}
+
+.body-top-head {
+  margin-top: 20px;
+}
+.test-bg {
+  height: auto;
+  background-color: var(--app-primary-color);
+}
+.top-heads {
+  font-size: 44px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.header-subtitles {
+  margin-top: 55px;
+  font-size: 31px;
+  font-weight: 600;
+  font-family: "Manrope SemiBold" !important;
+  font-style: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+  line-height: 1.29;
+}
+.box-borders {
+  width: auto;
+  height: auto;
+  /* border-radius: 10px;
+  border: solid 1px #707070;
+  background-color: var(--white); */
+}
+.inner-square-box {
+  font-size: 24px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.21;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-text-color-on-dark-bg);
+  width: 313px;
+  height: 49px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: var(--app-primary-color);
+  bottom: -10%;
+}
+
+.comp-logo {
+  height: 268px;
+  background-color: var(--app-secondary-color);
+}
+.logo-title {
+  font-size: 22px;
+  font-weight: 600;
+  font-family: "Manrope SemiBold" !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.features-details {
+  min-height: 155px;
+  background-color: var(--app-secondary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.imagegroup img {
+  flex-shrink: 0;
+  object-fit: cover;
+  border: 3px solid white;
+  border-radius: 10px;
+}
+.imagegroup {
+  display: flex;
+  width: 100%;
+}
+
+.imagegroup {
+  animation: moveSlideshow 15s linear infinite;
+  animation-play-state: running;
+  flex-shrink: 0;
+  justify-content: space-around;
+  min-width: 100%;
+  column-gap: 20px;
+}
+@keyframes moveSlideshow {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+@keyframes travel {
+  0%,
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+  50% {
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+.line-ver {
+  width: 90.1px;
+  height: 2px;
+  background-color: #113842;
+}
+.item-title {
+  font-size: 32px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+  line-height: 1.25;
+}
+.features-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid transparent; /* Set initial border */
+  width: 120px;
+  height: 102px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px; /* Border radius for the boxes */
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  /* border: 1px solid #964b00; */
+  /* margin-bottom: 6px; Adjust the margin as needed */
+  background-color: #edeff1;
+  cursor: pointer; /* Add cursor pointer to indicate it's clickable */
+}
+
+.item-box:hover {
+  border-color: var(--app-primary-color); /* Change background color on hover */
+}
+.feature-slide-text {
+  height: 74px;
+  margin: 41px -195px 14px 290px;
+  font-size: 18px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.39;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.ibox {
+  font-size: 14px;
+  font-weight: 600;
+  font-family: "Manrope SemiBold" !important;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.feature-box:hover .ibox {
+  color: var(--app-primary-color);
+}
+
+.ibox:hover {
+  color: var(--app-primary-color); /* Change text color on hover */
+}
+.feature-box {
+  position: relative;
+}
+
+.features-box {
+  border: 2px solid transparent; /* Set initial border */
+  transition: border-color 0.3s ease; /* Add transition for smooth effect */
+}
+
+.feature-box:hover .features-box {
+  background-color: var(--app-bg-white);
+  border-color: var(
+    --app-primary-color
+  ); /* Change border color on feature-box hover */
+}
+.feature-box:hover .features-box img {
+  width: 108px;
+}
+.features-boximg {
+  transition: filter 0.3s ease; /* Add transition for smooth effect */
+}
+
+.feature-box:hover .features-boximg {
+  filter: brightness(120%) hue-rotate(180deg); /* Change brightness and hue on feature-box hover */
+}
+.carousel-container {
+  position: relative;
+}
+.carousel-content {
+  display: none;
+  text-align: center;
+}
+.carousel-content {
+  color: #222;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Manrope Light" !important;
+  line-height: normal; /* 171.429% */
+  letter-spacing: 0.28px;
+  display: none;
+  max-width: 1024px;
+  padding: 16px;
+}
+.carousel-content {
+  width: 100%; /* Make sure individual slides take the full width of the container */
+  height: 100%; /* Make sure individual slides take the full height of the container */
+  display: none;
+}
+.carousel-content-slide {
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.slider-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 18px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.39;
+  letter-spacing: normal;
+  color: var(--app-secondary-text-color);
+}
+
+.hub {
+  color: #222;
+  text-align: center;
+
+  /* font-family: "Manrope", sans-serif; */
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Manrope Bold" !important;
+  line-height: normal; /* 133.333% */
+  text-transform: capitalize;
+}
+.hub {
+  /* Add other styles for the .hub class as needed */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.count-shadow {
+  height: 100%;
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: var(--app-secondary-color);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.counters-icons {
+  width: auto;
+  height: auto;
+}
+.count-no {
+  font-size: 38px;
+  font-weight: 800;
+  font-family: "Manrope Bold" !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-primary-color);
+}
+.c-strip {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: "Manrope SemiBold" !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.feedback-dd {
+  font-size: 18px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.56;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-bg-white);
+}
+.testi-name {
+  font-size: 22px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.36;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-bg-white);
+}
+.line-testi {
+  width: 90px;
+  height: 2px;
+  /* margin: 29.5px 263px 28.5px 0; */
+  background-color: var(--app-secondary-text-color);
+}
+.box-img {
+  border-radius: 10px;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.feature-comma {
+  width: 28px;
+  height: 92px;
+  font-size: 68px;
+  font-weight: 600;
+  font-family: "Manrope SemiBold" !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.feedback-title {
+  font-size: 30px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--app-secondary-text-color);
+}
+.landing-footer {
+  height: 200px;
+}
+.download-app {
+  margin: 22px 51px 115px 0px;
+  font-size: 18px;
+  font-family: "Manrope Bold";
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.11;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--app-bg-white);
+}
+.footer-head-tab {
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  font-family: "Manrope Bold";
+  color: var(--app-primary-color);
+}
+.footer-head-subtab {
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--white);
+}
+.footer-head-second-tab {
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: normal;
+  text-align: left;
+  font-family: "Manrope Bold";
+  color: var(--app-primary-color);
+}
+.testi-card {
+  background-color: var(--app-bg-white);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.head {
+  color: var(--app-secondary-text-color);
+  font-size: 16px;
+  font-style: normal;
+  font-family: "Manrope Bold";
+  line-height: 20px; /* 142.857% */
+}
+/* TABLET */
+@media (max-width: 768px) {
+  .top-head {
+    color: #222;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .features-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid transparent; /* Set initial border */
+    width: 160px;
+    height: 120px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px; /* Border radius for the boxes */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* border: 1px solid #964b00; */
+    /* margin-bottom: 6px; Adjust the margin as needed */
+    background-color: #edeff1;
+    cursor: pointer; /* Add cursor pointer to indicate it's clickable */
+  }
+  .scroll-text {
+    color: #222;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .feature-title {
+    color: #222;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .testimonial-story {
+    color: #222;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    letter-spacing: 1.2px;
+    text-transform: capitalize;
+  }
+
+  .testimonial-text {
+    color: #222;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Manrope Light" !important;
+    line-height: normal; /* 171.429% */
+  }
+  .strip {
+    color: var(--app-bg-white);
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal; /* 125% */
+  }
+  .footer-download-txt {
+    color: var(--app-bg-white);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal; /* 133.333% */
+    text-transform: capitalize;
+  }
+  .newsletter-box {
+    color: #222;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .footer-head-title {
+    color: var(--app-primary-color);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .footer-head-subtitle {
+    color: var(--app-bg-white);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Manrope Light" !important;
+    line-height: 20px; /* 142.857% */
+  }
+  .counter-icons {
+    width: 51.894px;
+    height: 50px;
+    flex-shrink: 0;
+  }
+  .cnumber {
+    color: var(--app-primary-color);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+  }
+  .newsletter-button {
+    border-radius: 0px 8px 8px 0px;
+    background: var(--app-primary-color);
+    height: 44px;
+    right: 0;
+  }
+
+  .Slides {
+    /* width: 528px; 
+    height: 200px;  */
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .mySlides {
+    width: 100%; /* Make sure individual slides take the full width of the container */
+  }
+  .hub {
+    text-align: center; /* Align text to center */
+  }
+  .testimonial {
+    font-size: 14px; /* Adjust font size for smaller screens */
+  }
+  .copyrght {
+    color: #fff;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Manrope Light" !important;
+    line-height: normal;
+    letter-spacing: 0.24px;
+    text-transform: capitalize;
+  }
+  .inner-square-box {
+    font-size: 18px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-text-color-on-dark-bg);
+    width: 250px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: var(--app-primary-color);
+    bottom: -10%;
+  }
+}
+/* MOBILE */
+@media (max-width: 576px) {
+  .count-shadow {
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: var(--app-secondary-color);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .count-no {
+    font-size: 30px;
+  }
+  .c-strip {
+    font-size: 12px;
+  }
+  .feedback-dd {
+    font-size: 14px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-bg-white);
+  }
+  .testi-name {
+    font-size: 16px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-bg-white);
+  }
+  .line-testi {
+    width: 60px;
+    height: 2px;
+    /* margin: 29.5px 263px 28.5px 0; */
+    background-color: var(--app-secondary-text-color);
+  }
+  .top-head {
+    color: #222;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+
+  .card-text {
+    color: #222;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .feature-title {
+    color: #222;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .testimonial-story {
+    color: #222;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+  }
+  .testimonial-text {
+    color: #222;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Manrope Light" !important;
+    line-height: normal; /* 171.429% */
+  }
+  .strip {
+    color: var(--app-bg-white);
+    /* font-family: Manrope; */
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal; /* 95.137% */
+  }
+  .footer-download-txt {
+    color: var(--app-bg-white);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal; /* 133.333% */
+    text-transform: capitalize;
+  }
+  .newsletter-box {
+    color: #222;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+    border-radius: 8px;
+    /* border: 1px solid #222; */
+    background: var(--app-bg-white);
+  }
+  .footer-head-title {
+    color: var(--app-primary-color);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+    text-transform: capitalize;
+  }
+  .footer-head-subtitle {
+    color: var(--app-bg-white);
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: "Manrope Light" !important;
+    line-height: 20px; /* 142.857% */
+  }
+  .counter-icons {
+    width: 31.136px;
+    height: 30px;
+    flex-shrink: 0;
+  }
+  .cnumber {
+    color: var(--app-primary-color);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    font-family: "Manrope Bold" !important;
+    line-height: normal;
+  }
+
+  .box-border {
+    border-radius: 22px;
+    background: #fff7f1;
+    width: 164px;
+    height: 170px;
+    flex-shrink: 0;
+  }
+  .row-gap {
+    row-gap: 20px;
+  }
+  .Slides {
+    /* width: 340px; 
+    height: 320px;  */
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+
+  .mySlides {
+    width: 100%; /* Make sure individual slides take the full width of the container */
+    display: none;
+  }
+  .imagegroup img {
+    flex-shrink: 0;
+    object-fit: cover;
+    border: 3px solid white;
+    border-radius: 10px;
+    width: 70px;
+  }
+  .features-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid transparent; /* Set initial border */
+    width: 80px;
+    height: 72px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px; /* Border radius for the boxes */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    /* border: 1px solid #964b00; */
+    /* margin-bottom: 6px; Adjust the margin as needed */
+    background-color: #edeff1;
+    cursor: pointer; /* Add cursor pointer to indicate it's clickable */
+  }
+  .feature-box img {
+    width: 50px;
+  }
+  .inner-square-box {
+    font-size: 18px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.21;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-text-color-on-dark-bg);
+    width: 250px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: var(--app-primary-color);
+    bottom: -10%;
+  }
+  .body-top-head {
+    margin-top: 0px;
+  }
+  .top-heads {
+    font-size: 16px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-secondary-text-color);
+  }
+
+  .header-subtitles {
+    margin-top: 28px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Manrope SemiBold" !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.29;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-secondary-text-color);
+  }
+  /*.box-borders {
+     border-radius: 10px;
+    border: solid 1px #707070;
+    background-color: var(--app-bg-white); 
+  }*/
+
+  .logo-title {
+    font-size: 14px;
+    font-weight: 600;
+    font-family: "Manrope SemiBold" !important;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-secondary-text-color);
+  }
+  .item-title {
+    font-size: 16px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-secondary-text-color);
+  }
+  .line-ver {
+    width: 34px;
+    height: 2px;
+    background-color: #113842;
+  }
+  .comp-logo {
+    height: 183px;
+  }
+
+  .test-bg {
+    background-color: var(--app-primary-color);
+  }
+  .feedback-title {
+    font-size: 18px;
+    font-family: "Manrope Bold";
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--app-secondary-text-color);
+  }
+}
+
+.bgimage {
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.copyrght {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Manrope Light" !important;
+  line-height: normal;
+  letter-spacing: 0.24px;
+  text-transform: capitalize;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hide-scrollbar {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}

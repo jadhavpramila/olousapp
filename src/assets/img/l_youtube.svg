@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="33" viewBox="0 0 34 33">
+  <defs>
+    <clipPath id="clip-Youtube">
+      <rect width="34" height="33"/>
+    </clipPath>
+  </defs>
+  <g id="Youtube" clip-path="url(#clip-Youtube)">
+    <path id="_5279120_play_video_youtube_youtuble_logo_icon" data-name="5279120_play_video_youtube_youtuble logo_icon" d="M15.639,0A15.639,15.639,0,1,1,0,15.639,15.646,15.646,0,0,1,15.639,0ZM25,10.933a2.448,2.448,0,0,0-1.728-1.728C21.751,8.8,15.639,8.8,15.639,8.8S9.526,8.8,8,9.205a2.448,2.448,0,0,0-1.728,1.728,25.447,25.447,0,0,0-.408,4.705,25.444,25.444,0,0,0,.408,4.705A2.448,2.448,0,0,0,8,22.072c1.525.408,7.638.408,7.638.408s6.113,0,7.638-.408A2.448,2.448,0,0,0,25,20.344a25.444,25.444,0,0,0,.408-4.705A25.447,25.447,0,0,0,25,10.933ZM13.684,18.571V12.706l5.079,2.932-5.079,2.932Z" transform="translate(1 1)" fill="#429be6" fill-rule="evenodd"/>
+  </g>
+</svg>

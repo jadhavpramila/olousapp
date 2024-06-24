@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="22" viewBox="0 0 33 22">
+  <defs>
+    <clipPath id="clip-Profession">
+      <rect width="33" height="22"/>
+    </clipPath>
+  </defs>
+  <g id="Profession" clip-path="url(#clip-Profession)">
+    <g id="Group_4087" data-name="Group 4087" transform="translate(2 1.037)">
+      <g id="Group_4084" data-name="Group 4084" transform="translate(0.821 0.823)">
+        <path id="Path_2994" data-name="Path 2994" d="M-382.411,727.88h-27.6a.32.32,0,0,1-.32-.318v0a.32.32,0,0,1,.32-.32h27.282V711.431a.319.319,0,0,1,.318-.319h0a.32.32,0,0,1,.32.319v16.127a.321.321,0,0,1-.319.321Z" transform="translate(410.334 -711.112)" fill="#5e5f5f"/>
+      </g>
+      <g id="Group_4085" data-name="Group 4085" transform="translate(27.542 0)">
+        <path id="Path_2995" data-name="Path 2995" d="M-384.386,711.515a1.2,1.2,0,0,1,1.2-1.2h0a1.2,1.2,0,0,1,1.2,1.2,1.2,1.2,0,0,1-1.2,1.2A1.2,1.2,0,0,1-384.386,711.515Z" transform="translate(384.386 -710.313)" fill="#5e5f5f"/>
+      </g>
+      <g id="Group_4086" data-name="Group 4086" transform="translate(0 16.069)">
+        <path id="Path_2996" data-name="Path 2996" d="M-409.93,725.917a1.2,1.2,0,0,0-1.2,1.2v0a1.2,1.2,0,0,0,1.2,1.2h0a1.2,1.2,0,0,0,1.2-1.2A1.2,1.2,0,0,0-409.93,725.917Z" transform="translate(411.131 -725.917)" fill="#5e5f5f"/>
+      </g>
+    </g>
+  </g>
+</svg>

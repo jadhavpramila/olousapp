@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-Closing_Soon">
+      <rect width="20" height="20"/>
+    </clipPath>
+  </defs>
+  <g id="Closing_Soon" data-name="Closing Soon" clip-path="url(#clip-Closing_Soon)">
+    <g id="timer" transform="translate(-143 -431)">
+      <path id="Path_7351" data-name="Path 7351" d="M145.868,437.342A7.96,7.96,0,1,0,152.959,433v2.894" transform="translate(0 0)" fill="none" stroke="#ff5f0a" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+      <line id="Line_3962" data-name="Line 3962" x1="4" y1="2" transform="translate(149.882 438.036)" fill="none" stroke="#ff5f0a" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.9"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="49" height="26" viewBox="0 0 49 26">
+  <defs>
+    <clipPath id="clip-Intrest">
+      <rect width="49" height="26"/>
+    </clipPath>
+  </defs>
+  <g id="Intrest" clip-path="url(#clip-Intrest)">
+    <g id="Group_4091" data-name="Group 4091" transform="translate(1 1.262)">
+      <g id="Group_4088" data-name="Group 4088" transform="translate(0.886 0.883)">
+        <path id="Path_2997" data-name="Path 2997" d="M-561.28,690.916a.366.366,0,0,1-.4-.32V669.273a.364.364,0,0,1,.4-.319h45.122a.366.366,0,0,1,.4.319.366.366,0,0,1-.4.32h-44.723v21a.365.365,0,0,1-.4.322Z" transform="translate(561.678 -668.954)" fill="#5e5f5f"/>
+      </g>
+      <g id="Group_4089" data-name="Group 4089" transform="translate(0 21.263)">
+        <path id="Path_2998" data-name="Path 2998" d="M-560.134,689.947a1.2,1.2,0,0,1-1.2,1.2h0a1.2,1.2,0,0,1-1.2-1.2h0a1.2,1.2,0,0,1,1.2-1.2h0a1.2,1.2,0,0,1,1.2,1.2Z" transform="translate(562.538 -688.745)" fill="#5e5f5f"/>
+      </g>
+      <g id="Group_4090" data-name="Group 4090" transform="translate(45.222 0)">
+        <path id="Path_2999" data-name="Path 2999" d="M-526.26,670.5a1.2,1.2,0,0,0,1.2-1.2h0a1.2,1.2,0,0,0-1.2-1.2h0a1.2,1.2,0,0,0-1.2,1.2h0a1.2,1.2,0,0,0,1.2,1.2Z" transform="translate(527.462 -668.097)" fill="#5e5f5f"/>
+      </g>
+    </g>
+  </g>
+</svg>
