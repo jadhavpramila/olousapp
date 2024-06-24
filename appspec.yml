@@ -1,0 +1,7 @@
+version: 0.0
+os: linux
+files:
+  - source: /dist
+    destination: /var/www/olous/olous-website-vue/dist
+file_exists_behavior: OVERWRITE
+  #

@@ -1,0 +1,31 @@
+ //singple post card
+ <div class="mb-6" v-for="data in details">
+            <div v-if="data.hits.hits.length" class="py-4 capitalize">
+                <span>Found {{data.hits.hits.length}} results in {{data.hits.hits[0]._index}}</span>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+                <div v-for="detail in data.hits.hits">
+                    <div v-if='detail' class="w-full bg-[#343434] rounded-lg ">
+                        <div class="flex flex-col">
+                            <div v-if="detail._index ==='knowledge'" 
+                                class="h-[12rem] rounded-lg bg-gray-400 flex items-center justify-center">
+                                <img src="/src/assets/pdf.svg" alt="">
+                            </div>
+                            <img v-else class="rounded-lg h-[13rem] object-cover object-top" :src="detail._source.author.profile_image" alt="">
+                            <div class="flex flex-col text-sm justify-between p-2 h-[7rem] ">
+                                <span class="overflow-hidden">
+                                    <h1 v-if="detail._source.content" class="">{{detail._source.content}}</h1>
+                                    <h1 class="">{{detail._source.title}}</h1>
+                                </span>
+                                <div class="flex justify-between mt-4 text-gray-500">
+                                    <a href="/">Olous.app</a>
+                                    <span>
+                                        12k Views
+                                    </span> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
